@@ -2,7 +2,7 @@
 
 > This is a Ruby on Rails5 applacation that allows users to create their own portfolios.
 
-### Features
+### Features test
 
 - Real time chat engine for comments
 - Blog
